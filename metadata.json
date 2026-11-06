@@ -1,0 +1,6 @@
+{
+  "name": "Treasure MathStorm! Mobile",
+  "description": "Climb Frozen Treasure Mountain, catch mischievous Snowbullies, solve multiplication challenges, and unlock royal rewards to restore the mountain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
